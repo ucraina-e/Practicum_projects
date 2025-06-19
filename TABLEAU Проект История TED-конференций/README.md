@@ -8,4 +8,6 @@
 
 - Четвертый дашборд служит для исследования тематик, не попавших в Топ-10 категорий, в каких странах чаще всего проходили выступления в категории "Другие",  какие темы выступлений категории "Другие" на проводимых конференциях были наиболее популярны, как менялся состав тематик выступлений по годам, сколько просмотров набрало каждое выступление.
 
+Данные получены: `https://code.s3.yandex.net//datasets/tableau_project_data_1.csv`, `https://code.s3.yandex.net//datasets/tableau_project_data_2.csv`, `https://code.s3.yandex.net//datasets/tableau_project_data_3.csv`, `https://code.s3.yandex.net//datasets/tableau_project_event_dict.csv`, `https://code.s3.yandex.net//datasets/tableau_project_speakers_dict.csv`
+
 Стек/инструменты: **Tableau** 
