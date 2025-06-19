@@ -6,10 +6,6 @@
 - Выделить группы на основе пользовательских действий, рассчитать и проанализировать бизнес-показатели (retention rate, conversion в целевое действие contacts_show), проверить статистические гипотезы в отношении выделенных групп.
 - Сформулировать выводы и сделать базовые рекомендации по управлению вовлеченностью пользователей.
 
-Данные получены:
-
-`https://code.s3.yandex.net//datasets/mobile_dataset.csv)`
-
-`https://code.s3.yandex.net//datasets/mobile_sources.csv`
+Данные получены: `https://code.s3.yandex.net//datasets/mobile_dataset.csv)`, `https://code.s3.yandex.net//datasets/mobile_sources.csv`
 
 Стек/инструменты: **Python** (pandas, matplotlib, seaborn), **PowerPoint**, **когортный анализ, продуктовые метрики** (retention rate, lifetime, conversion), **проверка статистических гипотез** 
