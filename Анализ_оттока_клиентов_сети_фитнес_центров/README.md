@@ -8,4 +8,4 @@
 
 Данные получены из файла `https://code.s3.yandex.net//datasets/gym_churn.csv`
 
-Стек/инструменты: **Python (pandas, matplotlib, seaborn), ML (бинарная классификация, кластеризация)**
+Стек/инструменты: **Python** (pandas, matplotlib, seaborn), **ML** (бинарная классификация, кластеризация)
