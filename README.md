@@ -26,6 +26,6 @@
 
     Стек/инструменты: Tableau
 
-Контакты:
-- https://t.me/elenaukraina
-- +7 (937) 552-67-70 WhatsApp 
+**Контакты:**
+* https://t.me/elenaukraina
+* +7 (937) 552-67-70 WhatsApp 
